@@ -1,5 +1,7 @@
 # Тестовое задание для NodaSoft - верстка по макету
 
+[index.html](https://artproes.github.io/for_an_interview-NodaSoft/index.html)
+
 ---
 ### тз:
 - __Сверстать__ [Макет из Figma][figma]
